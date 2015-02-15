@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.NoTitleBar" />
+    <style name="AppBaseTheme" parent="android:Theme.Holo.NoActionBar">
+    <!-- API 11 theme customizations can go here. -->
+</style>
+
+</resources>
